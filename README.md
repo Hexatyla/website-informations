@@ -19,3 +19,11 @@ Chaque partie sera modulable, c'est a dire que chaque partie en fonction de la m
 - Yannick Briffa, librairie 2D pour Ogre3D (Effets graphique, bouton hexagonale, etc...)
 - Geoffrey Bauduin, interface ingame cote serveur & conception UML du jeu
 - Clovis Kyndt, interface graphique cote client, concepteur de partie & conception UML du jeu
+
+##Repository
+
+[Common](https://github.com/Hexatyla/Common)
+[Server](https://github.com/Hexatyla/Server)
+[Client](https://github.com/Hexatyla/Client)
+[Media](https://github.com/Hexatyla/medias)
+[Editor](https://github.com/Hexatyla/Editor)
