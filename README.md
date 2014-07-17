@@ -22,8 +22,8 @@ Chaque partie sera modulable, c'est a dire que chaque partie en fonction de la m
 
 ##Repository
 
-[Common](https://github.com/Hexatyla/Common)
-[Server](https://github.com/Hexatyla/Server)
-[Client](https://github.com/Hexatyla/Client)
-[Media](https://github.com/Hexatyla/medias)
-[Editor](https://github.com/Hexatyla/Editor)
+- [Common](https://github.com/Hexatyla/Common)
+- [Server](https://github.com/Hexatyla/Server)
+- [Client](https://github.com/Hexatyla/Client)
+- [Media](https://github.com/Hexatyla/medias)
+- [Editor](https://github.com/Hexatyla/Editor)
